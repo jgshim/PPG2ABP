@@ -1,0 +1,22 @@
+# Large binary data
+cases/*.vital
+processed/*.npz
+results/*.npz
+models/*.pt
+
+# Office documents
+*.pptx
+*.docx
+
+# Temp files
+~$*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+.claude/
